@@ -7,7 +7,10 @@ A sleek and minimal note-taking app built with **React** and **Tailwind CSS**.
 - 🧠 Create and save notes instantly
 - 🗑️ Delete notes with one click
 - 🎨 Beautiful and responsive UI
-- 🌙 Light/Dark mode toggle 
+- 🌙 Light/Dark mode toggle
+
+## 🚀 **Live Demo:** [https://notes-saver-three.vercel.app](https://notes-saver-three.vercel.app)
+
 
 ## 🚀 Tech Stack
 
